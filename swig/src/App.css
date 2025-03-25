@@ -1,0 +1,27 @@
+.brandBody{
+    overflow: hidden;
+}
+.brandSideImage img{
+    height: 100vh;
+    width: 100%;
+}
+.brandContent{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.popup{
+    height: 250px;
+    padding: 15px;
+    width: 550px;
+    border: none;
+    box-shadow: 1px 2px 3px blue;
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 200px;
+    left: 350px;
+    border-radius: 5px;
+    background-color: white;
+}

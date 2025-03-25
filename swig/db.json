@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "title": "Wow!Momo",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/bdmlzhzeslozj1ouszti",
+            "area": "Healthy Food-Camp",
+            "id": "36dc"
+        },
+        {
+            "title": "Mc Donald's",
+            "ratings": "4.4",
+            "time": "37",
+            "images": "https://b.zmtcdn.com/data/pictures/5/18695725/012e38abbfc9893804c9326764cb80d0.jpg?fit=around|750:500&crop=750:500;*,*",
+            "area": "Shiwar wada",
+            "id": "3b17"
+        },
+        {
+            "title": "KFC",
+            "ratings": "4.1",
+            "time": "2.5",
+            "images": "https://content.jdmagicbox.com/comp/bellary/h7/9999p8392.8392.210812221924.c1h7/catalogue/kfc-sp-circle-bellary-fried-chicken-restaurants-0hpfozfdeb.jpg",
+            "area": "Deccan Gymkhana",
+            "id": "9eb2"
+        },
+        {
+            "title": "Samuddra Veg",
+            "ratings": "4.4",
+            "time": "35 min",
+            "images": "https://cdn.britannica.com/94/240094-050-D5CC461B/Indian-naan-flatbread.jpg",
+            "area": "Swargate",
+            "id": "8e2b"
+        },
+        {
+            "title": "Domino's Pizza",
+            "ratings": "4",
+            "time": "25 min",
+            "images": "https://content3.jdmagicbox.com/comp/mumbai/k4/022pxx22.xx22.210417100452.y2k4/catalogue/dominos-pizza-chembur-east-mumbai-pizza-outlets-cn2nfdqntq.jpg",
+            "area": "Rasta Peth",
+            "id": "916a"
+        },
+        {
+            "title": "Hotel Dawat",
+            "ratings": "3",
+            "time": "29 min",
+            "images": "https://irp.cdn-website.com/4de092ec/dms3rep/multi/rsz_traditional-indian-food-in-ceramic-bowls-2021-08-26-15-41-52-utc.jpg",
+            "area": "Shivaginagar",
+            "id": "08cd"
+        },
+        {
+            "title": "NH1 Bowl",
+            "ratings": "4.6",
+            "time": "12 min",
+            "images": "https://images.immediate.co.uk/production/volatile/sites/2/2020/04/OLI-0420-Everyday_SpicedGrainsWithPeasJammyEggs_04185_preview-f604cb1.jpg?quality=90&resize=700,466",
+            "area": "Dhole Patil",
+            "id": "5d7a"
+        },
+        {
+            "title": "Mathura veg",
+            "ratings": "4.3",
+            "time": "33 min",
+            "images": "https://hemaskitchen.in/wp-content/uploads/2023/02/South-Indian-Cuisine-scaled.jpg",
+            "area": "Shivagi nagar",
+            "id": "77d7"
+        },
+        {
+            "title": "Kok ka Chinese",
+            "ratings": "4.2",
+            "time": "29 min",
+            "images": "https://www.recipetineats.com/wp-content/uploads/2023/06/Chili-crisp-noodles_2.jpg?w=747&h=747&crop=1",
+            "area": "Shivagi nagar",
+            "id": "6dd4"
+        },
+        {
+            "title": "Hotel Shreyas",
+            "ratings": "4.5",
+            "time": "28 min",
+            "images": "https://static.toiimg.com/photo/55976415.cms",
+            "area": "camp",
+            "id": "972e"
+        },
+        {
+            "title": "Supriya Resturent",
+            "ratings": "4.6",
+            "time": "24 min",
+            "images": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,h_450,q_auto,w_710/f_auto/tk-traditional-indian-foods-to-taste-in-2022-phpEXAXNS ",
+            "area": "Prabhat Road",
+            "id": "25b9"
+        },
+        {
+            "title": "Big Bowl",
+            "ratings": "4.1",
+            "time": "41 min",
+            "images": "https://pbs.twimg.com/media/DUrvV-WVoAAmug5.jpg:large",
+            "area": "Swargate",
+            "id": "e8b0"
+        },
+        {
+            "title": "George Resturent",
+            "ratings": "4.4",
+            "time": "28 min",
+            "images": "https://5.imimg.com/data5/ANDROID/Default/2021/7/UK/QS/JK/121291282/product-jpeg-500x500.jpg",
+            "area": "camp",
+            "id": "3dbd"
+        },
+        {
+            "title": "Marz o rin",
+            "ratings": "4.6",
+            "time": "30 min",
+            "images": "https://static.toiimg.com/photo/58022721.cms",
+            "area": "camp",
+            "id": "0b93"
+        },
+        {
+            "title": "Garden Vada center",
+            "ratings": "4.3",
+            "time": "35 min",
+            "images": "https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav-500x375.jpg",
+            "area": "Deccan Gymkhana",
+            "id": "b195"
+        },
+        {
+            "title": "Shahi Dawat",
+            "ratings": "4.5",
+            "time": "28 min",
+            "images": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/03/09/Pictures/_29be3980-04b2-11e7-87c7-5947ba54d240.jpg",
+            "area": "Viman nagar",
+            "id": "e938"
+        },
+        {
+            "title": "Rama Krishna",
+            "ratings": "4.4",
+            "time": "30 min",
+            "images": "https://files.yappe.in/place/small/hotel-dolphin-international-998455.webp",
+            "area": "Dhole Patil",
+            "id": "42e9"
+        },
+        {
+            "title": "Kwality family resturent",
+            "ratings": "4.3",
+            "time": "31 min",
+            "images": "https://5.imimg.com/data5/ANDROID/Default/2021/7/HF/EM/VH/121291282/product-jpeg-500x500.jpg",
+            "area": "Sadashiv peth",
+            "id": "4ded"
+        },
+        {
+            "title": "Wong's Kitchen",
+            "ratings": "4.8",
+            "time": "12 min",
+            "images": "https://www.blog.sagmart.com/wp-content/uploads/2015/04/Indian-Food.jpg",
+            "area": "Sector 34",
+            "id": "763a"
+        },
+        {
+            "title": "Cream Caver",
+            "ratings": "4.4",
+            "time": "31 min",
+            "images": "https://cdn.5280.com/2023/05/Tiffins-India-Cafe-VS-1-960x540.jpg",
+            "area": "camp",
+            "id": "fc7d"
+        },
+        {
+            "title": "Tandoori Junction",
+            "ratings": "4.5",
+            "time": "32 min",
+            "images": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/tandoori-chicken.jpg",
+            "area": "Baner",
+            "id": "1a2b"
+        },
+        {
+            "title": "Biryani House",
+            "ratings": "4.7",
+            "time": "27 min",
+            "images": "https://www.cookwithkushi.com/wp-content/uploads/2022/02/hyderabadi_chicken_dum_biryani_3.jpg",
+            "area": "Kothrud",
+            "id": "3f4g"
+        },
+        {
+            "title": "Punjabi Dhaba",
+            "ratings": "4.2",
+            "time": "40 min",
+            "images": "https://www.chefspencil.com/wp-content/uploads/Punjabi-Thali.jpg",
+            "area": "Hadapsar",
+            "id": "5h6j"
+        },
+        {
+            "title": "Sushi House",
+            "ratings": "4.8",
+            "time": "20 min",
+            "images": "https://www.justonecookbook.com/wp-content/uploads/2023/06/Sushi-Platter-500x375.jpg",
+            "area": "Viman Nagar",
+            "id": "7k8m"
+        },
+        {
+            "title": "Pizza Point",
+            "ratings": "4.3",
+            "time": "30 min",
+            "images": "https://upload.wikimedia.org/wikipedia/commons/1/11/Pizza_margarita.jpg",
+            "area": "Magarpatta",
+            "id": "9n0p"
+        },
+        {
+            "title": "Spice Route",
+            "ratings": "4.6",
+            "time": "22 min",
+            "images": "https://www.tasteofhome.com/wp-content/uploads/2019/06/Spicy-Asian-Lettuce-Wraps_EXPS_HCK18_31172_B04_06_4b-2.jpg",
+            "area": "Koregaon Park",
+            "id": "1q2r"
+        },
+        {
+            "title": "Mughal Darbar",
+            "ratings": "4.4",
+            "time": "28 min",
+            "images": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Asha_Sharath/Mughlai_Style_Mutton_Kali_Mirch_Recipe_Pepper_Mutton_Curry.jpg",
+            "area": "Camp",
+            "id": "3s4t"
+        },
+        {
+            "title": "South Spice",
+            "ratings": "4.7",
+            "time": "18 min",
+            "images": "https://www.cookwithmanali.com/wp-content/uploads/2017/07/Masala-Dosa-500x375.jpg",
+            "area": "Aundh",
+            "id": "5u6v"
+        },
+        {
+            "title": "BBQ Nation",
+            "ratings": "4.5",
+            "time": "35 min",
+            "images": "https://www.foodiesfeed.com/wp-content/uploads/2022/04/grilled-meat-and-vegetables-on-bbq-1024x683.jpg",
+            "area": "JM Road",
+            "id": "7w8x"
+        },
+        {
+            "title": "Taco Fiesta",
+            "ratings": "4.3",
+            "time": "25 min",
+            "images": "https://www.simplyrecipes.com/thmb/8Gq6j0jRV9mvP82EpUcmW3ZL7yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Tacos-Carnitas-LEAD-03-80306403444d4e9596f67c5e33b5d7a5.jpg",
+            "area": "Wakad",
+            "id": "9y0z"
+        }
+    ]
+}
