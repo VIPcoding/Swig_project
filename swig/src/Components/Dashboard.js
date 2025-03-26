@@ -8,6 +8,8 @@ export default function Dashboard() {
   const navigate = useNavigate();
   const [search, setSearch] = useState("");
   const [food, setFood] = useState([]);
+  const carouselRef = useRef(null);
+  const cardWidth = 200; 
 
   useEffect(() => {
     fetch("http://localhost:3005/data")
@@ -91,41 +93,60 @@ export default function Dashboard() {
         <br />
         <br />
 
-        <div className="carousel">
-          <div className="container">
-            <div style={{ display: "flex", alignItems: "center" }}>
-              <button
-                onClick={() => {
-                  PrevContent.current.scrollBy({
-                    left: -200,
-                    behavior: "smooth",
-                  });
-                }}
-              >
-                Left
-              </button>
+        <div className="carousel-container" style={{ width: "100%", overflow: "hidden" }}>
+      <div className="carousel-wrapper " style={{ display: "flex", alignItems: "center" }}>
+        <button
+          onClick={() => {
+            PrevContent.current.scrollBy({
+              left: -cardWidth,
+              behavior: "smooth",
+            });
+          }}
+        >
+          Left
+        </button>
 
-              <div ref={PrevContent} style={{ display: "flex", overflowX: "scroll", scrollBehavior: "smooth" }}>
-                {data.map((x) => (
-                  <div key={x.id} className="card" style={{ width: "12rem", marginLeft: "20px", transition: "transform 0.3s ease-in-out" }}>
-                    <img className="img-fluid w-100" src={x.image} alt={x.name} />
-                  </div>
-                ))}
-              </div>
-
-              <button
-                onClick={() => {
-                  PrevContent.current.scrollBy({
-                    left: 200,
-                    behavior: "smooth",
-                  });
-                }}
-              >
-                Right
-              </button>
+        <div
+          ref={PrevContent}
+          className="carousel mx-3"
+          style={{
+            display: "flex",
+            overflowX: "hidden",
+            scrollBehavior: "smooth",
+            width: "1000px", // 5 cards width
+          }}
+        >
+          {data.map((x) => (
+            <div
+              key={x.id}
+              className="card"
+              style={{
+                minWidth: `${cardWidth}px`,
+                marginRight: "20px",
+                transition: "transform 0.3s ease-in-out",
+              }}
+            >
+              <img
+                className="img-fluid w-100"
+                src={x.image}
+                alt={x.name}
+              />
             </div>
-          </div>
+          ))}
         </div>
+
+        <button
+          onClick={() => {
+            PrevContent.current.scrollBy({
+              left: cardWidth,
+              behavior: "smooth",
+            });
+          }}
+        >
+          Right
+        </button>
+      </div>
+    </div>
 
         <input
           value={search}
