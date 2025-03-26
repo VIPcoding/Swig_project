@@ -113,7 +113,7 @@ export default function Dashboard() {
             display: "flex",
             overflowX: "hidden",
             scrollBehavior: "smooth",
-            width: "1000px", // 5 cards width
+  
           }}
         >
           {data.map((x) => (
